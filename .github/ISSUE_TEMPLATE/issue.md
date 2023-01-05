@@ -1,13 +1,16 @@
 ---
-name: Issue request
+name: New Issue
 about: New issue for this project.
 title: ''
 labels: ''
 assignees: ''
 
 ---
+### Description of Issue
 
-### Reference to the source of the issue
+> Add a description here.
+
+### Reference to the source of the issue (Pick an option [x] and add details)
 
 - [ ] Customer Requirement
     - [ ] Document Number: *PDL-XXX-YYYY-ZZZ (R) - Description*
@@ -18,10 +21,6 @@ assignees: ''
 - [ ] R&D
 - [ ] Internal refactoring (improvement)
 - [ ] Other -
-
-### Description of Issue
-
-> Add a description here.
 
 ### Additional context
 
