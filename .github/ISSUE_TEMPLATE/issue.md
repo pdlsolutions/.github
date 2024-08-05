@@ -12,7 +12,7 @@ assignees: ''
 
 ### Reference to the source of the issue (Pick an option [x] and add details)
 
-- [ ] Customer Requirement
+Customer Requirement
     - [ ] Document Number: *PDL-XXX-YYYY-ZZZ (R) - Description*
     - [ ] Recd Doc: *01. 28-07-2020 - Description - Rec'd via email*
     - [ ] Email: *Email from sender, “subject”, received time & date*
